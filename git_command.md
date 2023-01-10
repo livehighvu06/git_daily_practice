@@ -1,4 +1,4 @@
-#Git 指令筆記
+# Git 指令筆記
 
 - `git init`  
   在 folder 裡建立 Git 初始化
